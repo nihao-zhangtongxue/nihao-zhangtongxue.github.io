@@ -1,0 +1,43 @@
+I"<p>I am a first-year Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/">College of AI, Tsinghua University</a>. I received my B.Eng. from <a href="https://www.buaa.edu.cn/">Beihang University</a> in 2026.</p>
+
+<p>My research lies at the intersection of <strong>reinforcement learning</strong> and <strong>large language models</strong>. I am currently focused on <strong>LLM agents</strong> and agentic post-training, and I am also interested in embodied AI.</p>
+
+<h1 id="news">News</h1>
+<ul>
+  <li><strong>2026.10</strong>   <a href="https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0">Apex-35B-V1.0</a>, which I worked on during my internship at Apex Intelligence, is released.</li>
+  <li><strong>2026.09</strong>   Started my Ph.D. at Tsinghua University.</li>
+  <li><strong>2026.08</strong>   <a href="https://arxiv.org/abs/2608.29798">R²A</a> is on arXiv.</li>
+  <li><strong>2025.09</strong>   Three papers accepted to <strong>NeurIPS 2025</strong> (one Spotlight).</li>
+</ul>
+
+<h1 id="selected-publications">Selected Publications</h1>
+<p>(* first author; see <a href="/publications/">Publications</a> for the full list)</p>
+
+<ul>
+  <li><strong>Mohan Zhang</strong>, Jiaxuan Gao, Shusheng Xu, Yi Wu. <strong>Reasoning Is Not a Race: When Stopping Early Beats Going Deeper.</strong> <em>NeurIPS 2025.</em> <a href="https://openreview.net/forum?id=xoL5zo1O86">[OpenReview]</a></li>
+  <li><strong>Mohan Zhang</strong>, Chengsong You, Xiaoyu Cao, Zhen Sun, Xiaohan Jia, Junwei Zhou, Yongchao Chen. <strong>R²A: Learning Persona Policies Through Persona Representation Learning and Runtime Alignment.</strong> <em>Preprint, 2026.</em> <a href="https://arxiv.org/abs/2608.29798">[arXiv]</a></li>
+  <li>Ning Gao, Xiuhui Zhang, Xingyu Jiang, Mukang You, <strong>Mohan Zhang</strong>, Yue Deng. <strong>RF-Agent: Automated Reward Function Design via Language Agent Tree Search.</strong> <em>NeurIPS 2025 (Spotlight).</em> <a href="https://arxiv.org/abs/2602.23876">[arXiv]</a></li>
+  <li>Xiuhui Zhang, Ning Gao, Xingyu Jiang, Yihui Chen, Yuheng Pan, <strong>Mohan Zhang</strong>, Yue Deng. <strong>Progress Reward Model for Reinforcement Learning via Large Language Models.</strong> <em>NeurIPS 2025.</em> <a href="https://arxiv.org/abs/2610.22056">[arXiv]</a></li>
+</ul>
+
+<h1 id="experience">Experience</h1>
+<ul>
+  <li><strong>Apex Intelligence</strong>, Model Training Team — Research Intern  (Jun 2026 – Nov 2026)<br />
+Contributed to the training of <a href="https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0">Apex-35B-V1.0</a>, the company’s first open-source LLM.</li>
+  <li><strong>Ant Group</strong>, <a href="https://github.com/inclusionAI/AReaL">AReaL</a> Team — Research Intern  (2025 – 2026)<br />
+Research on reinforcement learning for large language models.</li>
+</ul>
+
+<h1 id="education">Education</h1>
+<ul>
+  <li><strong>Tsinghua University</strong>, Ph.D. in Artificial Intelligence  (2026 – present)</li>
+  <li><strong>Beihang University</strong>, B.Eng., Image Processing Center  (2022 – 2026)</li>
+</ul>
+
+<h1 id="honors">Honors</h1>
+<ul>
+  <li>Friends of Tsinghua – Huanlan Dream Scholarship, College of AI, Tsinghua University (2026)</li>
+  <li>Baosteel Outstanding Student Award (2025)</li>
+  <li>National Scholarship, Ministry of Education of China (2023, 2024)</li>
+</ul>
+:ET

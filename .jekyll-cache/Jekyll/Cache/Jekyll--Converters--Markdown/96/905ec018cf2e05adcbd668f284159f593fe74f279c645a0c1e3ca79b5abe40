@@ -1,0 +1,2 @@
+I"<p>PRM-guided beam search often fails to beat PRM-free methods in long chain-of-thought reasoning. We trace this to step-quality degradation and propose Z-Score Guided Early Stopping (ZGES), which stops the search at the detected quality peak using locally normalized PRM rewards.</p>
+:ET

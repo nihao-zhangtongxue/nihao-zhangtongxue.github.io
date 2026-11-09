@@ -1,0 +1,2 @@
+I"±<p>Uses LLM world knowledge to decompose long-horizon tasks and generate subtask-progress functions, yielding a progress reward model that guides efficient policy learning.</p>
+:ET

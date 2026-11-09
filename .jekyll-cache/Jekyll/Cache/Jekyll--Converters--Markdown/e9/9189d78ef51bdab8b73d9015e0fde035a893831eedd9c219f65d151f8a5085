@@ -1,0 +1,131 @@
+I"'
+<p><a href="https://nihao-zhangtongxue.github.io/files/Mohan_Zhang_CV.pdf">Download PDF</a></p>
+
+<h1 id="education">Education</h1>
+<ul>
+  <li>Ph.D. in Artificial Intelligence, Tsinghua University, 2026 – present</li>
+  <li>B.Eng., Image Processing Center, Beihang University, 2022 – 2026 (GPA 3.85/4.00)</li>
+</ul>
+
+<h1 id="experience">Experience</h1>
+<ul>
+  <li><strong>Apex Intelligence</strong>, Model Training Team, Research Intern (Jun 2026 – Nov 2026)
+    <ul>
+      <li>Contributed to the training of Apex-35B-V1.0, the company’s first open-source LLM.</li>
+    </ul>
+  </li>
+  <li><strong>Ant Group</strong>, AReaL Team, Research Intern (2025 – 2026)
+    <ul>
+      <li>Research on reinforcement learning for large language models.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="publications">Publications</h1>
+<ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://nihao-zhangtongxue.github.io/publication/2026-r2a" rel="permalink">R²A: Learning Persona Policies Through Persona Representation Learning and Runtime Alignment
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"><b>Mohan Zhang</b>, Chengsong You, Xiaoyu Cao, Zhen Sun, Xiaohan Jia, Junwei Zhou, Yongchao Chen. &quot;R²A: Learning Persona Policies Through Persona Representation Learning and Runtime Alignment.&quot; <i>arXiv:2608.29798</i>, 2026.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://nihao-zhangtongxue.github.io/publication/2025-reasoning-is-not-a-race" rel="permalink">Reasoning Is Not a Race: When Stopping Early Beats Going Deeper
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"><b>Mohan Zhang</b>, Jiaxuan Gao, Shusheng Xu, Yi Wu. &quot;Reasoning Is Not a Race: When Stopping Early Beats Going Deeper.&quot; <i>NeurIPS</i>, 2025.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://nihao-zhangtongxue.github.io/publication/2025-rf-agent" rel="permalink">RF-Agent: Automated Reward Function Design via Language Agent Tree Search
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Ning Gao, Xiuhui Zhang, Xingyu Jiang, Mukang You, <b>Mohan Zhang</b>, Yue Deng. &quot;RF-Agent: Automated Reward Function Design via Language Agent Tree Search.&quot; <i>NeurIPS</i>, 2025.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="https://nihao-zhangtongxue.github.io/publication/2025-progress-reward-model" rel="permalink">Progress Reward Model for Reinforcement Learning via Large Language Models
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Xiuhui Zhang, Ning Gao, Xingyu Jiang, Yihui Chen, Yuheng Pan, <b>Mohan Zhang</b>, Yue Deng. &quot;Progress Reward Model for Reinforcement Learning via Large Language Models.&quot; <i>NeurIPS</i>, 2025.</p> 
+    </li>
+ </article>
+</div>
+
+  </ul>
+
+<h1 id="honors--awards">Honors &amp; Awards</h1>
+<ul>
+  <li>Friends of Tsinghua – Huanlan Dream Scholarship, College of AI, Tsinghua University (2026)</li>
+  <li>Baosteel Outstanding Student Award, Baosteel Education Foundation (2025)</li>
+  <li>National Scholarship ×2, Ministry of Education of China (2023, 2024)</li>
+  <li>Outstanding Student of Beihang University, top 5%, three consecutive years (2023 – 2025)</li>
+</ul>
+
+<h1 id="skills">Skills</h1>
+<ul>
+  <li>Python, PyTorch</li>
+</ul>
+:ET
