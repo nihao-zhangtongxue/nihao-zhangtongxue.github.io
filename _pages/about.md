@@ -11,6 +11,12 @@ I am a first-year Ph.D. student at the [College of AI, Tsinghua University](http
 
 My research lies at the intersection of **reinforcement learning** and **large language models**. I am currently focused on **LLM agents** and agentic post-training, and I am also interested in embodied AI.
 
+Contact
+======
+* mh-zhang26@mails.tsinghua.edu.cn
+* zhangmohan70@gmail.com
+* 18663704887@163.com
+
 News
 ======
 * **2026.10** &nbsp; [Apex-35B-V1.0](https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0), which I worked on during my internship at Apex Intelligence, is released.
