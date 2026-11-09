@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF]({{ base_path }}/files/Mohan_Zhang_CV.pdf)
-
 Education
 ======
 * Ph.D. in Artificial Intelligence, Tsinghua University, 2026 – present
