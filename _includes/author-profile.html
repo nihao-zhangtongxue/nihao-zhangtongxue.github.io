@@ -35,7 +35,7 @@
       {% endif %}
       {% if author.emails %}
         {% for addr in author.emails %}
-        <li><a href="mailto:{{ addr }}" style="word-break: break-all;"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ addr }}</a></li>
+        <li><a href="mailto:{{ addr }}" style="word-break: break-all;"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ addr }}{% if addr == author.email_preferred %} (preferred){% endif %}</a></li>
         {% endfor %}
       {% elsif author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
