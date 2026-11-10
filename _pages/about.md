@@ -14,7 +14,7 @@ My research lies at the intersection of **reinforcement learning** and **large l
 Contact
 ======
 * mh-zhang26@mails.tsinghua.edu.cn
-* zhangmohan70@gmail.com
+* zhangmohan70@gmail.com (preferred)
 * 18663704887@163.com
 
 News
